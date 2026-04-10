@@ -7,7 +7,6 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
     '@nuxtjs/i18n',
     '@nuxtjs/tailwindcss',
-    '@sidebase/nuxt-auth',
     '@element-plus/nuxt'
   ]
 })
